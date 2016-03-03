@@ -1,10 +1,7 @@
 # mvc-content-neg-views
 Spring Content negotiation with Tiles view approach
 
-# mvc-content-neg-views
-
-Demonstration application showing the use of Content-Negotiation in Spring MVC with
-multiple Views
+## The pom.xml is the same included inside the zipped folder of mvc-content-neg-views
 
 ### Prerequisites
 
